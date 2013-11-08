@@ -49,7 +49,7 @@ of this work involves moving building a new production infrastructure on
 Linux instances running in AWS. Technology includes:
 
 * Masterless provisioning with Puppet
-* LXC Container-based deployemnt (instead of code-based deployment)
+* LXC Container-based deployment (instead of code-based deployment)
 * Service location and distributed configration with zookeeper
 * Continuous intergration testing
 * git push-based deployments
